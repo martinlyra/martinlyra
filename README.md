@@ -9,8 +9,7 @@
 I can also work with HTML and CSS, though they don't count as programming languages!
 
 ### Past university coursework
-If you are interested in exploring my past homework for courses taken at university, you can find the list ![here](./UNIVERSITY.md)
-Which includes:
+If you are interested in exploring my past homework for courses taken at university, you can find the list ![here](./UNIVERSITY.md) - which includes:
 - **Lund Tekniska Högskola, 2019 - 2023**
 - **Linneaus University, 2016 - 2019**
 
