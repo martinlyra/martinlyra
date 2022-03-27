@@ -6,7 +6,7 @@ Note: I used to have the LTH repos open and public in 2019 until I got emails fr
 |------|------|------|-------------|
 | FMAN45 | Machine Learning | 2022 | MATLAB |
 | FMAN95 | Computer Vision | 2022 | MATLAB |
-| EDAF90 | Web programming | 2022 | JavaScript |
+| EDAF90 | Web programming | 2022 | JavaScript, TypeScript |
 | EDAN95 | Applied machine learning | 2021 | Jupyter Notebook |
 | EDAN65 | Compilers | 2021 | Java |
 | EDAN26 | Multicore programming | 2021 | C, Clojure, Rust, Scala |
