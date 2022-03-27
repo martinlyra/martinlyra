@@ -4,6 +4,7 @@ If you are looking for repositories of classes I had taken and finished, you can
 Note: I used to have the LTH repos open and public in 2019 until I got emails from lecturers concerned about plagarism of my own work, they are private until further notice.
 | Code | Name | Year | Language(s) |
 |------|------|------|-------------|
+| FMAN45 | Machine Learning | 2022 | MATLAB |
 | FMAN95 | Computer Vision | 2022 | MATLAB |
 | EDAF90 | Web programming | 2022 | JavaScript |
 | EDAN95 | Applied machine learning | 2021 | Jupyter Notebook |
