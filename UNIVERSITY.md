@@ -4,6 +4,8 @@ If you are looking for repositories of classes I had taken and finished, you can
 Note: I used to have the LTH repos open and public in 2019 until I got emails from lecturers concerned about plagarism of my own work, they are private until further notice.
 | Code | Name | Year | Language(s) |
 |------|------|------|-------------|
+| FMAN61 | Optimization | 2022 | MATLAB |
+| FRTN65 | Modeling and Learning from Data | 2022 | Jupyter Notebook, Modelica |
 | EDAP20 | Intelligent Autonomous Systems | 2022 | Python |
 | EDAF80 | Computer Graphics | 2022 | C++, GLSL |
 | BMEN01 | Biomedicinal Signal Processing | 2022 | MATLAB |
